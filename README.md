@@ -1,15 +1,28 @@
 <p align="center">
-  <img src="https://github.com/Sakshamsingh20/Sakshamsingh20/blob/main/montminy.png>
+  <img src="./montminy.png" width="100%" alt="Saksham Singh Banner"/>
 </p>
-<div align="center">
 
-# Hi 👋 I'm Saksham Singh
+<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 
-### AI/ML Engineer in Progress • Python Developer • Backend Engineer
+<h3 align="center">
+AI/ML Engineer • Backend Developer • Python Engineer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Backend+Developer;Python+Engineer;Building+Production+Ready+Applications;Open+to+Internships" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-singh-aug/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/CRcOkT9omN/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://sakshamsinghportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Backend+Developer;Python+Developer;Building+Scalable+AI+Applications;Open+to+Internships" />
+</p>
 
 ---
 
@@ -17,96 +30,87 @@
 
 🎓 Final Year B.Tech CSE (AI & ML) Student at VIT Bhopal
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & NLP
+🤖 Passionate about Artificial Intelligence, Machine Learning, NLP & LLM Applications
 
-⚙️ Backend-focused developer building scalable APIs and cloud-native applications
+⚙️ Backend-focused developer building scalable APIs and cloud-native systems
 
-☁️ Experienced with Docker, AWS, OCI, and deployment workflows
+☁️ Working with Docker, AWS, OCI and modern deployment workflows
 
-💡 Interested in AI Systems, LLM Applications, Backend Engineering & Software Development
+💡 Interested in AI Systems, Backend Engineering and Software Development
 
----
-
-## 🌐 Connect With Me
-
-* Portfolio: https://sakshamsinghportfolio.netlify.app
-* LinkedIn: https://www.linkedin.com/in/saksham-singh-aug/
-* LeetCode: https://leetcode.com/u/CRcOkT9omN/
-* Email: [sakshamsingh20aug2005@gmail.com](mailto:sakshamsingh20aug2005@gmail.com)
+📫 Email: **[sakshamsingh20aug2005@gmail.com](mailto:sakshamsingh20aug2005@gmail.com)**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-Python • C++ • JavaScript • SQL
-
-### Backend
-
-Flask • REST APIs • Microservices • JSON • Webhooks
-
-### Databases
-
-MySQL • PostgreSQL • MongoDB • SQLite
-
-### AI / ML
-
-TensorFlow • Scikit-Learn • NLP • Deep Learning • Computer Vision • RAG
-
-### Cloud & DevOps
-
-Docker • AWS • OCI • Git • GitHub • Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql,mongodb,postgresql,flask,tensorflow,docker,aws,git,github,linux,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sakshamsingh20\&show_icons=true\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh20\&layout=compact\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Sakshamsingh20\&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakshamsingh20&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh20&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## 🔥 GitHub Streak
 
-### 🧠 HireSense — AI Resume Analyzer
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sakshamsingh20&theme=tokyonight" />
+</p>
 
-ATS-compliant resume analysis platform using NLP, PDF parsing, entity extraction, and semantic matching.
+---
 
-**Tech:** Python • Flask • NLP • Spacy
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshamsingh20&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🧠 HireSense – AI Resume Analyzer
+
+* ATS-compliant resume analysis platform
+* NLP-powered resume parsing
+* Semantic job matching
+* Flask backend architecture
+
+**Tech:** Python, NLP, Flask, SpaCy
 
 ---
 
 ### 💬 Emotional Intelligence Chatbot
 
-Emotion-aware conversational assistant using RAG architecture and sentiment classification.
+* Emotion-aware conversational assistant
+* RAG-based architecture
+* Sentiment classification
+* Real-time interaction
 
-**Tech:** Python • NLP • RAG • Scikit-Learn
+**Tech:** Python, NLP, Scikit-Learn, RAG
 
 ---
 
 ### 🚆 TrackMyTrain.live
 
-Real-time railway tracking platform integrating train location, PNR status, and food-ordering services.
+* Live train tracking platform
+* PNR status monitoring
+* Food ordering integration
+* Optimized mobile experience
 
-**Tech:** Python • Flask • APIs • Full Stack
-
----
-
-## 🎯 Current Focus
-
-* Advanced Machine Learning
-* Generative AI & LLM Applications
-* System Design
-* Scalable Backend Architecture
-* Open Source Contributions
+**Tech:** Python, Flask, APIs
 
 ---
 
-## 📜 Certifications
+## 📚 Certifications
 
 🏅 Oracle Cloud Infrastructure AI Foundations Associate
 
@@ -118,10 +122,41 @@ Real-time railway tracking platform integrating train location, PNR status, and 
 
 ---
 
-## 💡 Fun Fact
+## 🎯 Current Focus
 
-I enjoy transforming complex AI ideas into real-world applications that are fast, scalable, and user-friendly.
+* Machine Learning
+* Deep Learning
+* LLM Applications
+* Backend Development
+* System Design
+* Open Source Contributions
 
 ---
 
-⭐ If you find my projects useful, consider starring them and connecting with me!
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/saksham-singh-aug/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Sakshamsingh20">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sakshamsingh20&color=blueviolet" />
+</p>
+
+---
+
+### 💡 Quote I Live By
+
+> "Keep building. Every project teaches something that no course can."
+
+⭐ If you like my work, feel free to star my repositories and connect with me.
