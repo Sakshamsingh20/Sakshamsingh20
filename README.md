@@ -1,110 +1,124 @@
-<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=B.Tech+Final+Year+Student;AI%2FML+Enthusiast;Python+Developer;Backend+Developer;Open+to+Internships" alt="Typing SVG" />
-</p>
+# Hi 👋 I'm Saksham Singh
+
+### AI/ML Engineer in Progress • Python Developer • Backend Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Backend+Developer;Python+Engineer;Building+Production+Ready+Applications;Open+to+Internships" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Final Year Student
+🎓 Final Year B.Tech CSE (AI & ML) Student at VIT Bhopal
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning & NLP
 
-🐍 Strong interest in Python Development
+⚙️ Backend-focused developer building scalable APIs and cloud-native applications
 
-⚙️ Learning Backend Development and System Design
+☁️ Experienced with Docker, AWS, OCI, and deployment workflows
 
-💻 Solving DSA problems regularly
-
-🌱 Currently exploring LLMs, FastAPI, and Cloud Technologies
-
-📫 Reach me: **your-email@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### AI/ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-
-Machine Learning • Deep Learning • NLP
-
-### Backend & Database
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sakshamsingh20&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh20&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=Sakshamsingh20&theme=tokyonight)
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 AI Resume Analyzer
-AI-powered system to analyze resumes and provide insights.
-
-### 💬 AI Chatbot
-Conversational AI chatbot using modern NLP techniques.
-
-### 🎯 Recommendation System
-Machine Learning-based recommendation engine.
-
-### 👁️ Face Recognition Attendance System
-Attendance system using OpenCV and facial recognition.
-
-### 🌐 Personal Portfolio Website
-Responsive portfolio showcasing projects and skills.
-
----
-
-## 🎯 Current Goals
-
-- Master Data Structures & Algorithms
-- Build Production-Level AI Applications
-- Learn System Design
-- Contribute to Open Source
-- Secure an AI/ML or Software Development Internship
+💡 Interested in AI Systems, LLM Applications, Backend Engineering & Software Development
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sakshamsingh20)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Sakshamsingh20)
+* Portfolio: https://sakshamsinghportfolio.netlify.app
+* LinkedIn: https://www.linkedin.com/in/saksham-singh-aug/
+* LeetCode: https://leetcode.com/u/CRcOkT9omN/
+* Email: [sakshamsingh20aug2005@gmail.com](mailto:sakshamsingh20aug2005@gmail.com)
 
 ---
 
-⭐ If you like my work, feel free to star my repositories and connect with me!
+## 🛠 Tech Stack
+
+### Languages
+
+Python • C++ • JavaScript • SQL
+
+### Backend
+
+Flask • REST APIs • Microservices • JSON • Webhooks
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB • SQLite
+
+### AI / ML
+
+TensorFlow • Scikit-Learn • NLP • Deep Learning • Computer Vision • RAG
+
+### Cloud & DevOps
+
+Docker • AWS • OCI • Git • GitHub • Linux
+
+---
+
+## 📊 GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sakshamsingh20\&show_icons=true\&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh20\&layout=compact\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Sakshamsingh20\&theme=tokyonight)
+
+---
+
+## 🏆 Featured Projects
+
+### 🧠 HireSense — AI Resume Analyzer
+
+ATS-compliant resume analysis platform using NLP, PDF parsing, entity extraction, and semantic matching.
+
+**Tech:** Python • Flask • NLP • Spacy
+
+---
+
+### 💬 Emotional Intelligence Chatbot
+
+Emotion-aware conversational assistant using RAG architecture and sentiment classification.
+
+**Tech:** Python • NLP • RAG • Scikit-Learn
+
+---
+
+### 🚆 TrackMyTrain.live
+
+Real-time railway tracking platform integrating train location, PNR status, and food-ordering services.
+
+**Tech:** Python • Flask • APIs • Full Stack
+
+---
+
+## 🎯 Current Focus
+
+* Advanced Machine Learning
+* Generative AI & LLM Applications
+* System Design
+* Scalable Backend Architecture
+* Open Source Contributions
+
+---
+
+## 📜 Certifications
+
+🏅 Oracle Cloud Infrastructure AI Foundations Associate
+
+🏅 AWS Technical Essentials
+
+🏅 Google IT Support Professional Certificate
+
+🏅 Applied Machine Learning in Python
+
+---
+
+## 💡 Fun Fact
+
+I enjoy transforming complex AI ideas into real-world applications that are fast, scalable, and user-friendly.
+
+---
+
+⭐ If you find my projects useful, consider starring them and connecting with me!
